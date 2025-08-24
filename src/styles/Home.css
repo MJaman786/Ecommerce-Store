@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'popins';
+    src: url("../assets/fonts/Poppins/Poppins-ExtraLight.ttf");
+}
+
+@font-face {
+    font-family: 'robot';
+    src: url("./assets/fonts/Roboto/static/Roboto-Regular.ttf");
+}
+
+.carousel-item .card-text{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.carousel-item .card-title{
+    font-family: 'popins';
+    text-shadow: 0 0 10px #fff;
+}
+
+.carousel-item .card-btn button{
+    padding: 10px 20px;
+    background-color: #0000009a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    /* box-shadow: 0 0 px #fff; */
+}
+
+
+.carousel-item{
+    background-color: #37353E;
+    border: none !important;
+    /* border: 1px solid #fff !important; */
+}
+
+.carousel-item .card{
+    background-color: #37353E;
+    border: none !important;
+    /* border: 1px solid #fff !important; */
+}

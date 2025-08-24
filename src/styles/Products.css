@@ -1,0 +1,25 @@
+#product-container{
+    background-color: black;
+}
+
+.product-card{
+    background-color: #031119;
+    border: 1px solid rgba(224, 255, 255, 0.199);
+    transition: all 0.8s ease;
+}
+
+.product-card:hover{
+    transform: translateY(-2px);
+    background-color: #031119bb;
+    border: 1px solid rgba(224, 255, 255, 0.612);
+}
+
+.product-card .card-title, .card-text{
+    color: #fff;
+} 
+
+@media (max-width:700px) {
+    .product-underline{
+        width: 100px !important;
+    }
+}

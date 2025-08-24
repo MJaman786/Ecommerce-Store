@@ -1,0 +1,30 @@
+.nav-link{
+    color: #fff !important;
+}
+
+.nav-link:hover{
+    color: #FCC61D !important;
+}
+
+.nav-link:focus{
+    color: #FCC61D !important;
+}
+
+.menu-icon{
+    color: #fff;
+}
+
+.offcanvas-body{
+    background-color: #212529;
+}
+
+.dropdown-menu, .dropdown-item{
+    background-color: #212529;
+    color: aliceblue;
+}
+
+.dropdown-item:hover{
+    background-color: #21252970;
+    color: #FCC61D;
+}
+
