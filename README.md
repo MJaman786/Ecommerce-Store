@@ -25,7 +25,7 @@ It provides a clean UI for browsing products, managing a cart, and placing order
 
 ## 📸 Screenshot
 
-![App Screenshot](./Screenshot.png)
+![App Screenshot](/Screenshot.png)
 
 ---
 
