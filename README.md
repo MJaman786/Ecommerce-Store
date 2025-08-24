@@ -5,6 +5,12 @@ It provides a clean UI for browsing products, managing a cart, and placing order
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](/Screenshot.png)
+
+---
+
 ## 🚀 Features
 - 🖥️ Responsive design (desktop & mobile)
 - 📦 Product listings with images, description & price
@@ -20,12 +26,6 @@ It provides a clean UI for browsing products, managing a cart, and placing order
 - **Bootstrap 5** 🎨
 - **JavaScript (ES6+)**
 - **GitHub Pages / Vercel / Netlify** (for deployment)
-
----
-
-## 📸 Screenshot
-
-![App Screenshot](/Screenshot.png)
 
 ---
 
